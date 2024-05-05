@@ -1,1 +1,1 @@
-# Electronic-Sales
+Create an interactive dashboard with trending insights for an electronic store with more than 1M entries which involves cleaning, manipulation and many more. Used DAX functions, Excel Queries and more.
